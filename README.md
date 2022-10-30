@@ -1,5 +1,7 @@
 # Word-Analogy-Using-Annoy
 
+A simple word analogy program using Spotify Annoy in Python CLI
+
 ## Format:
 
 **word 1 : word 2 :: word 3 : word 4**
